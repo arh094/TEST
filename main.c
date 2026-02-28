@@ -3,6 +3,6 @@
 
 int main1()
 {
-    printf("modifier\n");
+    printf("MAJ_V01\n");
     return 0;
 }
